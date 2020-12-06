@@ -158,3 +158,4 @@ int ListDelete(SqList L, int i) {
 	}
 	return L.length - 1;
 }
+
