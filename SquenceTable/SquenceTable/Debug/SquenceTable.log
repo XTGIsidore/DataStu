@@ -2,5 +2,5 @@
 D:\VSProject\DataStucture\SquenceTable\SquenceTable\Squence.c(47,49): warning C4047: “=”:“int *”与“int”的间接级别不同
 D:\VSProject\DataStucture\SquenceTable\SquenceTable\Squence.c(61,54): warning C4047: “=”:“int *”与“int”的间接级别不同
 D:\VSProject\DataStucture\SquenceTable\SquenceTable\Squence.c(75,66): warning C4047: “=”:“int *”与“int”的间接级别不同
-D:\VSProject\DataStucture\SquenceTable\SquenceTable\Squence.c(142,64): warning C4047: “=”:“int *”与“int”的间接级别不同
+D:\VSProject\DataStucture\SquenceTable\SquenceTable\Squence.c(145,64): warning C4047: “=”:“int *”与“int”的间接级别不同
   SquenceTable.vcxproj -> D:\VSProject\DataStucture\SquenceTable\Debug\SquenceTable.exe

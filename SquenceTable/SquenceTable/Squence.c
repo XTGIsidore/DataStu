@@ -98,6 +98,9 @@ int main() {
 	}
 	printf("\n");
 	printf("list3.length = %d\n", list3.length);
+	free(list1.elem);
+	free(list2.elem);
+	free(list3.elem);
 	return 0;
 }
 

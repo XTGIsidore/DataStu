@@ -1,0 +1,5 @@
+﻿  Singal.c
+D:\VSProject\DataStucture\ChainLinear\ChainLinear\Singal.c(22,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VSProject\DataStucture\ChainLinear\ChainLinear\Singal.c(64,31): warning C4047: “=”:“LNode *”与“int”的间接级别不同
+D:\VSProject\DataStucture\ChainLinear\ChainLinear\Singal.c(80,17): warning C4013: “CreatList_R”未定义；假设外部返回 int
+D:\VSProject\DataStucture\ChainLinear\ChainLinear\Singal.c(80,24): warning C4047: “=”:“LinkList”与“int”的间接级别不同
